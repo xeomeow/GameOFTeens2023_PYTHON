@@ -1,0 +1,85 @@
+{
+    "api_key": "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",
+    "token": "6227174151:AAHOaLp1qcTC_4Xgy_bBYBSG1uK3jpDjVQ4",
+    "button1_name": "Пройти тестування",
+    "button2_name": "Інформація",
+    "button3_name": "Ми ♡ ЗСУ",
+    "button4_name": "Тарифи",
+    
+    "main_text": "_Якщо ти хочеш ознайомитися зі всіма тарифами, то натисни на кнопку нижче\\._",
+    "button1_text": "Ми розробили тест для підбору комфортного тарифу з умовами, які тобі потрібні!",
+    "button1_but": "Почати тестування",
+    "button2_text": "[GitHub проєкту](https://github.com/xeomeow/GameOFTeens2023_PYTHON) \nКонтакт для зв'язку \\- @xeo\\_eth\nМова программування \\- `Python 3.11.4`\nЗалучені бібліотеки \\: \n`pyTelegramBotAPI 4.12.0` \n`openai 0.27.8`",
+    "button3_text": "Кожен донат допомагає зупинити війну, наближає Україну до миру та допомагає людям повернутися додому.",
+    "button_back_text": "Повернутись назад",
+    
+    "button1_data": "button1",
+    "button1_but_data": "button1_but",
+    "button2_data": "button2",
+    "button3_data": "button3",
+    "button_back_data": "button_back",
+    
+    "zsu_but1_name": "Повернись живим",
+    "zsu_but2_name": "Рахунок НБУ",
+    "zsu_but3_name": "UNITED24",
+    
+    "zsu_but1_url": "https://savelife.in.ua/donate/#donate-army-card-once",
+    "zsu_but2_url": "https://bank.gov.ua/ua/about/support-the-armed-forces",
+    "zsu_but3_url": "https://u24.gov.ua/uk",
+    
+    "question1_text":"Скільки вам років\\?",
+    "q1_count": 2,
+    "q1_answer1":"Менше 18",
+    "q1_answer2":"Більше 18",
+    
+    "question2_text":"Для кого вам потрібен тариф\\?",
+    "q2_count": 2,
+    "q2_answer1":"Для сім'ї",
+    "q2_answer2":"Для себе",
+    
+    "question3_text":"Для чого вам потрібен тариф\\?",
+    "q3_count": 4,
+    "q3_answer1":"Для дзвінків",
+    "q3_answer2":"Для інтернету",
+    "q3_answer3":"Для соц. мереж ",
+    "q3_answer4":"Для всього",
+    
+    "question4_text":"Яка ціна тарифу вас влаштовує\\?",
+    "q4_count": 3,
+    "q4_answer1":"Менше 200 Гривень",
+    "q4_answer2":"Більше 200 Гривень",
+    "q4_answer3":"Мені байдуже",
+    
+    "question5_text":"Який об'єм інтернету вам потрібен\\?",
+    "q5_count": 4,
+    "q5_answer1":"Безліміт",
+    "q5_answer2":"Менше 10 ГБ",
+    "q5_answer3":"Більше 10 ГБ",
+    "q5_answer4":"Мені байдуже",
+    
+    "question6_text":"Як часто ви користуєтесь соц\\. мережами та мессенджерами\\?",
+    "q6_count": 3,
+    "q6_answer1":"Часто",
+    "q6_answer2":"Рідко",
+    "q6_answer3":"Мені байдуже",
+    
+    "question7_text":"Скільки хвилин вам потрібно для дзвінків по Україні?\n_Дзвінки у мережі lifecell \\- безкоштовні\\._",
+    "q7_count": 3,
+    "q7_answer1":"Менше 1200 хвилин",
+    "q7_answer2":"Більше 1200 хвилин",
+    "q7_answer3":"Мені байдуже",
+    
+    "end_button_name": "Повернутися до тестування",
+    "end_button_data": "end_button",
+    
+    "buy_button_name": "Підключити тариф",
+    "tariff1_url": "https://www.lifecell.ua/uk/mobilnij-zvyazok/taryfy/vilniy-life-2021/",
+    "tariff2_url": "https://www.lifecell.ua/uk/mobilnij-zvyazok/taryfy/smart-life-2021/",
+    "tariff3_url": "https://www.lifecell.ua/uk/mobilnij-zvyazok/taryfy/prosto-life-2021/",
+    "tariff4_url": "https://www.lifecell.ua/uk/mobilnij-zvyazok/taryfy/platinum-life-2021/",
+    "tariff5_url": "https://www.lifecell.ua/uk/mobilnij-zvyazok/taryfy/shkilniy/",
+    "tariff6_url": "https://www.lifecell.ua/uk/mobilnij-zvyazok/smart-simya-series/",
+    
+    "last_button_name": "Перейти до головного меню",
+    "last_button_data": "last_button"
+}
